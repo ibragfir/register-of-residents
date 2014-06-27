@@ -1,0 +1,2 @@
+register-of-residents
+=====================
